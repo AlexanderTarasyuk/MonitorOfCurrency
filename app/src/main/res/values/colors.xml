@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#212121</color>
+    <color name="background">#263238</color>
+    <color name="textbright">#00B8D4</color>
+    <color name="textpale">#78909C</color>
+    <color name="markertext">#D1C4E9</color>
+    <color name="barcolor">#455A64</color>
+</resources>
